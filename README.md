@@ -13,7 +13,7 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 ## Repository details
 
-The Chatbot is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
+'Mental Health Awareness Canada' is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
 
 For Jupter Notebook consider the following files
 
@@ -37,10 +37,10 @@ For Pycharm IDE consider the following files
 
 ## Breakdown of the repository files:
 
-- chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
-- mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.
-- intents.json - Dataset needed for training the Chatbot model.
-- words.pkl and classes.pkl - Stores the responses of the Chatbot model.
+- chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the model.
+- mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the model's GUI.
+- intents.json - Dataset needed for training the model.
+- words.pkl and classes.pkl - Stores the responses of the model.
 - chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
 
 ---
@@ -55,12 +55,17 @@ The following packages are required for running the Chatbot:
 2.  [numpy](https://pypi.org/project/numpy/)
 3.  [tensorflow](https://pypi.org/project/tensorflow/)
 
+---
+
 ## Usage
 
-First run the chatbot_training.ipynb / chatbot_training.py code to train the Chatbot model. The model will be saved 
+First execute chatbot_training.ipynb / chatbot_training.py code to train the model and then execute mentalhealthbot.ipynb / mentalhealthbot.py code to run the application.
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+
+
+
+'Mental Health Awareness Canada' will responds to queries typed in by the user regarding mental health issues and resources available in Canada.
+
+
+
+

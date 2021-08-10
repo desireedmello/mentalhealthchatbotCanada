@@ -45,11 +45,13 @@ For Pycharm IDE consider the following files
 
 # Installation
 
-- [nltk](https://pypi.org/project/nltk/)
-  - nltk.download('punkt')
-  - nltk.download('wordnet')
--  [numpy](https://pypi.org/project/numpy/)
--  [keras](https://pypi.org/project/keras/)
--  [tensorflow](https://pypi.org/project/tensorflow/)
+1. [nltk](https://pypi.org/project/nltk/)
+   - nltk.download('punkt')
+   - nltk.download('wordnet')
+2.  [numpy](https://pypi.org/project/numpy/)
+3.  [keras](https://pypi.org/project/keras/)
+4.  [tensorflow](https://pypi.org/project/tensorflow/)
+
+# Usage
 
 

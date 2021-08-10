@@ -43,7 +43,7 @@ For Pycharm IDE consider the following files
 - words.pkl and classes.pkl - Stores the responses of the Chatbot model.
 - chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
 
-# Installation
+# Installation Library Requirements
 
 1. [nltk](https://pypi.org/project/nltk/)
    - nltk.download('punkt')

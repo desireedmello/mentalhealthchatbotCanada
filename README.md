@@ -83,7 +83,7 @@ If you have any questions you can email me at dmellod@lakeheadu.ca or desiree2dm
 
 ## Contributing
 
-- In case you encounter any issues please report them [here](https://github.com/desireedmello/mentalhealthchatbotCanada/issues)
+In case you encounter any issues please report them [here](https://github.com/desireedmello/mentalhealthchatbotCanada/issues)
 
 ---
 

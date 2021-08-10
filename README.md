@@ -35,7 +35,7 @@ For Pycharm IDE consider the following files
 
 ---
 
-## Manifest
+## Breakdown of the repository files:
 
 - chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
 - mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.

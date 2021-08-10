@@ -45,7 +45,7 @@ For Pycharm IDE consider the following files
 
 # Installation
 
-Install the below packages from PyPI for Jupyter Notebook:
+The following packages are required for running the Chatbot:
 
 1. [nltk](https://pypi.org/project/nltk/)
    - nltk.download('punkt')
@@ -53,8 +53,6 @@ Install the below packages from PyPI for Jupyter Notebook:
 2.  [numpy](https://pypi.org/project/numpy/)
 3.  [keras](https://pypi.org/project/keras/)
 4.  [tensorflow](https://pypi.org/project/tensorflow/)
-
-For Pycharm IDE install the above packages by importing them directly in the application. (Note. Tensorflow may require VisualStudio to create and run the model. In case of error just click on the link provided in the Pycharm output and download the respective VisualStudio required.)
 
 # Usage
 

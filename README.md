@@ -28,3 +28,11 @@ For Pycharm IDE consider the following files
 4. words.pkl
 5. classes.pkl
 6. chatbot_model.h5
+
+# Breakdown of each file
+
+1. chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
+2. mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.
+3. intents.json - Dataset needed for training the Chatbot model.
+4. words.pkl and classes.pkl - Stores the responses of the Chatbot model.
+5. chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.

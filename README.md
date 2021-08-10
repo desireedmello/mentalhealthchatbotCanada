@@ -61,11 +61,15 @@ The following packages are required for running the Chatbot:
 
 First execute chatbot_training.ipynb / chatbot_training.py code to train the model and then execute mentalhealthbot.ipynb / mentalhealthbot.py code to run the application.
 
-
-
+![Media1](https://user-images.githubusercontent.com/76941265/128907253-eac01a8b-88d8-4a84-be88-dad171644b34.gif)
 
 'Mental Health Awareness Canada' will responds to queries typed in by the user regarding mental health issues and resources available in Canada.
 
+---
+
+## Support
+
+If you have any questions you can email me at dmellod@lakeheadu.ca or desiree2dmello@gmail.com
 
 
 

@@ -11,7 +11,7 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 ---
 
-# Repository details
+## Repository details
 
 The Chatbot is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
 
@@ -35,7 +35,7 @@ For Pycharm IDE consider the following files
 
 ---
 
-# Breakdown of each file
+## Manifest
 
 - chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
 - mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.
@@ -43,7 +43,9 @@ For Pycharm IDE consider the following files
 - words.pkl and classes.pkl - Stores the responses of the Chatbot model.
 - chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
 
-# Installation
+---
+
+## Installation
 
 The following packages are required for running the Chatbot:
 
@@ -51,9 +53,14 @@ The following packages are required for running the Chatbot:
    - nltk.download('punkt')
    - nltk.download('wordnet')
 2.  [numpy](https://pypi.org/project/numpy/)
-3.  [keras](https://pypi.org/project/keras/)
-4.  [tensorflow](https://pypi.org/project/tensorflow/)
+3.  [tensorflow](https://pypi.org/project/tensorflow/)
 
-# Usage
+## Usage
 
+First run the chatbot_training.ipynb / chatbot_training.py code to train the Chatbot model. The model will be saved 
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```

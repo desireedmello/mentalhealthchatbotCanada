@@ -91,7 +91,7 @@ If you have any questions you can email me at dmellod@lakeheadu.ca or desiree2dm
 
 1.  F. Chollet, ”The Sequential model," Keras, 12 April 2020.  [Online]. Available: https://keras.io/guides/sequential_model/. [Accessed 16 July 2021].
 2.  Data Flair, ”Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras." [Online]. Available: https://data-flair.training/blogs/python-chatbot-project/. [Accessed 16 July 2021].
-
+3. The Python Standard Library, ”Graphical User Interfaces with Tk," Python. [Online]. Available: https://data-flair.training/blogs/python-chatbot-project/. [Accessed 16 July 2021].
 
 ## Project Status
 

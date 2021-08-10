@@ -17,7 +17,7 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 For Jupter Notebook consider the following files
 
-1. chatbot_training.ipynb      
+1. trainingmodel.ipynb      
 2. mentalhealthbot.ipynb
 3. intents.json                
 4. words.pkl   
@@ -26,7 +26,7 @@ For Jupter Notebook consider the following files
 
 For Pycharm IDE consider the following files
 
-1. chatbot_training.py
+1. trainingmodel.py
 2. mentalhealthbot.py
 3. intents.json
 4. words.pkl
@@ -37,7 +37,7 @@ For Pycharm IDE consider the following files
 
 ## Breakdown of the repository files:
 
-- chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the model.
+- trainingmodel.ipynb / trainingmodel.py - Consists of the code required for training the model.
 - mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the model's GUI.
 - intents.json - Dataset needed for training the model.
 - words.pkl and classes.pkl - Stores the responses of the model.
@@ -59,7 +59,7 @@ The following packages are required for running the Chatbot:
 
 ## Usage
 
-First execute chatbot_training.ipynb / chatbot_training.py code to train the model and then execute mentalhealthbot.ipynb / mentalhealthbot.py code to run the application.
+First execute trainingmodel.ipynb / trainingmodel.py code to train the model and then execute mentalhealthbot.ipynb / mentalhealthbot.py code to run the application.
 
 ![Media1](https://user-images.githubusercontent.com/76941265/128907253-eac01a8b-88d8-4a84-be88-dad171644b34.gif)
 

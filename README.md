@@ -7,10 +7,7 @@
 
 Mental health issues are often not discussed due to the stigma behind them and this results in many people hesitating to seek help for their mental illnesses. Although the Canadian Government has funded several mental health resources for the general public, very few people utilize these platforms. The main reason for this is the lack of awareness regarding mental health concerns and the resources available in Canada. For my research on mental health awareness, I have developed a descriptive mental health Chatbot application called 'Mental Health Awareness Canada.' This Chatbot interface incorporates Natural Language Processing (NLP) and Deep Learning Techniques to provide users with a more interactive and friendly conversation when discussing mental health issues. It also provides reliable support information taken from the official [Government of Canada](https://www.canada.ca/en/public-health/topics/mental-health-wellness.html) website.
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-in/windows) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![PyPI](https://img.shields.io/pypi/v/1) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/docs.python.org/release/3.8.0/) ![PyPI - Status](https://img.shields.io/pypi/status/nltk)
-
-
-
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-in/windows) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 # Repository details
 

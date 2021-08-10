@@ -71,5 +71,29 @@ First execute chatbot_training.ipynb / chatbot_training.py code to train the mod
 
 If you have any questions you can email me at dmellod@lakeheadu.ca or desiree2dmello@gmail.com
 
+---
 
+## Road-map
+
+- [x] Added mental health issues into 'Mental Health Awareness Canada'
+- [ ] Need to add more resources funded by the Canadian Government
+- [ ] Incorporate sentiment analysis on user responses
+
+---
+
+## Contributing
+
+- In case you encounter any issues please report them [here](https://github.com/desireedmello/mentalhealthchatbotCanada/issues)
+
+---
+
+## References
+
+1.  F. Chollet, ”The Sequential model," Keras, 12 April 2020.  [Online]. Available: https://keras.io/guides/sequential_model/. [Accessed 16 July 2021].
+2.  Data Flair, ”Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras." [Online]. Available: https://data-flair.training/blogs/python-chatbot-project/. [Accessed 16 July 2021].
+
+
+## Project Status
+
+The project is still open for further improvements.
 

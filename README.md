@@ -13,12 +13,12 @@ The Chatbot is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Wor
 
 For Jupter Notebook consider the following files
 
-1. chatbot_training.ipynb
+1. chatbot_training.ipynb      
 2. mentalhealthbot.ipynb
-3. intents.json
-4. words.pkl
-5. classes.pkl
-6. chatbot_model.h5
+3. intents.json                
+4. words.pkl   
+5. classes.pkl             
+6. chatbot_model.h5                   
 
 For Pycharm IDE consider the following files
 

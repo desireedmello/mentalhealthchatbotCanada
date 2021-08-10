@@ -7,6 +7,11 @@
 
 Mental health issues are often not discussed due to the stigma behind them and this results in many people hesitating to seek help for their mental illnesses. Although the Canadian Government has funded several mental health resources for the general public, very few people utilize these platforms. The main reason for this is the lack of awareness regarding mental health concerns and the resources available in Canada. For my research on mental health awareness, I have developed a descriptive mental health Chatbot application called 'Mental Health Awareness Canada.' This Chatbot interface incorporates Natural Language Processing (NLP) and Deep Learning Techniques to provide users with a more interactive and friendly conversation when discussing mental health issues. It also provides reliable support information taken from the official [Government of Canada](https://www.canada.ca/en/public-health/topics/mental-health-wellness.html) website.
 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) ![PyPI](https://img.shields.io/pypi/v/1) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow) ![PyPI - Status](https://img.shields.io/pypi/status/nltk)
+
+
+
+
 # Repository details
 
 The Chatbot is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
@@ -36,3 +41,7 @@ For Pycharm IDE consider the following files
 3. intents.json - Dataset needed for training the Chatbot model.
 4. words.pkl and classes.pkl - Stores the responses of the Chatbot model.
 5. chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
+
+# Installation
+
+1. [nltk library](https://pypi.org/project/nltk/)

@@ -9,6 +9,8 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-in/windows) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) [![PyPI](https://img.shields.io/pypi/v/four)](https://pypi.org/project/pypi-install/) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow)](https://www.python.org/downloads/release/python-380/) ![GitHub repo size](https://img.shields.io/github/repo-size/desireedmello/mentalhealthchatbotCanada)
 
+---
+
 # Repository details
 
 The Chatbot is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
@@ -31,14 +33,22 @@ For Pycharm IDE consider the following files
 5. classes.pkl
 6. chatbot_model.h5
 
+---
+
 # Breakdown of each file
 
-1. chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
-2. mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.
-3. intents.json - Dataset needed for training the Chatbot model.
-4. words.pkl and classes.pkl - Stores the responses of the Chatbot model.
-5. chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
+- chatbot_training.ipynb / chatbot_training.py - Consists of the code required for training the Chatbot model.
+- mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the Chatbot GUI interface.
+- intents.json - Dataset needed for training the Chatbot model.
+- words.pkl and classes.pkl - Stores the responses of the Chatbot model.
+- chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
 
 # Installation
 
-1. [nltk library](https://pypi.org/project/nltk/)
+- [import nltk](https://pypi.org/project/nltk/)
+  - nltk.download('punkt')
+  - nltk.download('wordnet')
+-  [import numpy](https://pypi.org/project/numpy/)
+-  [import keras](https://pypi.org/project/keras/)
+
+

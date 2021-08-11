@@ -17,7 +17,7 @@ Mental health issues are often not discussed due to the stigma behind them and t
 - [Breakdown of the Repository Files](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#breakdown-of-the-repository-files)
 - [Installation](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#installation)
 - [Usage](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#usage)
-- [Mental Health Awareness Canada Demo]()
+- [Mental Health Awareness Canada Demo](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#mental-health-awareness-canada-demo)
 - [Support]()
 - [Road-map]()
 - [Contributing]()

@@ -19,29 +19,29 @@ For Jupter Notebook consider the following files
 
 1. trainingmodel.ipynb      
 2. mentalhealthbot.ipynb
-3. intents.json                
-4. words.pkl   
-5. classes.pkl             
-6. chatbot_model.h5                   
+3. mentalhealthCanada.json                
+4. vocabulary.pkl   
+5. categories.pkl             
+6. mentalhealthbot_model.h5                   
 
 For Pycharm IDE consider the following files
 
 1. trainingmodel.py
 2. mentalhealthbot.py
-3. intents.json
-4. words.pkl
-5. classes.pkl
-6. chatbot_model.h5
+3. mentalhealthCanada.json
+4. vocabulary.pkl
+5. categories.pkl
+6. mentalhealthbot_model.h5
 
 ---
 
 ## Breakdown of the repository files:
 
 - trainingmodel.ipynb / trainingmodel.py - Consists of the code required for training the model.
-- mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing the model's GUI.
-- intents.json - Dataset needed for training the model.
-- words.pkl and classes.pkl - Stores the responses of the model.
-- chatbot_model.h5 - The Chatbot model created by chatbot_training and used in mentalhealthbot.
+- mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing and running the model's GUI.
+- mentalhealthCanada.json - Dataset consisting of mental health data and resources needed for training the model.
+- vocabulary.pkl and categories.pkl - Stores the list of vocabulary and categories for the model.
+- mentalhealthbot_model.h5 - The 'Mental Health Awareness Canada' model created by trainingmodel and used in mentalhealthbot.
 
 ---
 
@@ -60,6 +60,16 @@ The following packages are required for running the Chatbot:
 ## Usage
 
 First execute trainingmodel.ipynb / trainingmodel.py code to train the model and then execute mentalhealthbot.ipynb / mentalhealthbot.py code to run the application.
+
+Note: While running the model you may encounter this error:
+
+```
+ImportError: Could not find the DLL(s) 'msvcp140_1.dll'. TensorFlow requires that these DLLs be installed in a directory that is named in your %PATH% environment variable. You may install these DLLs by downloading "Microsoft C++ Redistributable for Visual Studio 2015, 2017 and 2019" for your platform from this URL: https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads
+```
+
+If so please download the required Visual Studio from [Microsoft Support](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+
+## Mental Health Awareness Canada Demo
 
 ![Media1](https://user-images.githubusercontent.com/76941265/128907253-eac01a8b-88d8-4a84-be88-dad171644b34.gif)
 

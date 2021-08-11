@@ -57,7 +57,7 @@ For Pycharm IDE consider the following files
 ## Breakdown of the Repository Files:
 
 ```
-- trainingmodel.ipynb / trainingmodel.py -> Consists of the code required for training the model.
+- trainingmodel.ipynb / trainingmodel.py Consists of the code required for training the model.
 - mentalhealthbot.ipynb / mentalhealthbot.py -> Consists of the code required for designing and running the model's GUI.
 - mentalhealthCanada.json -> Dataset consisting of mental health data and resources needed for training the model.
 - vocabulary.pkl and categories.pkl -> Stores the list of vocabulary and categories for the model.

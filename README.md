@@ -11,12 +11,21 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 ---
 
-## Table of contents
+## Table of Contents
 
-- [Repository details](#Repositorydetails)
+- [Repository Details](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#repository-details)
+- [Breakdown of the Repository Files]()
+- [Installation]()
+- [Usage]()
+- [Mental Health Awareness Canada Demo]()
+- [Support]()
+- [Road-map]()
+- [Contributing]()
+- [References]()
+- [Project Status]()
 
 ---
-## Repository details
+## Repository Details
 
 'Mental Health Awareness Canada' is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
 
@@ -40,7 +49,7 @@ For Pycharm IDE consider the following files
 
 ---
 
-## Breakdown of the repository files:
+## Breakdown of the Repository Files:
 
 - trainingmodel.ipynb / trainingmodel.py - Consists of the code required for training the model.
 - mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing and running the model's GUI.

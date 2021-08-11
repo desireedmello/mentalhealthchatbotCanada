@@ -95,7 +95,7 @@ If so please download the required Visual Studio from [Microsoft Support](https:
 
 ## Support
 
-If you have any questions you can email me at dmellod@lakeheadu.ca or desiree2dmello@gmail.com
+If you have any questions please email me at dmellod@lakeheadu.ca or desiree2dmello@gmail.com
 
 ---
 

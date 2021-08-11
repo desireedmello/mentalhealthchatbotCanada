@@ -94,7 +94,7 @@ If so please download the required Visual Studio from [Microsoft Support](https:
 
 ## Mental Health Awareness Canada Demo
 
-![Chatbot](https://user-images.githubusercontent.com/76941265/129022361-36e76a3a-70f1-4bd2-9152-870ebee5383c.gif)
+![Chatbot_Trim](https://user-images.githubusercontent.com/76941265/129023085-8fe63fbb-9aa3-413a-8604-43ded295dc14.gif)
 
 'Mental Health Awareness Canada' will responds to queries typed in by the user regarding mental health issues and resources available in Canada.
 

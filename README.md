@@ -99,5 +99,5 @@ In case you encounter any issues please report them [here](https://github.com/de
 
 ## Project Status
 
-The project is still open for further improvements.
+'Mental Health Awareness Canada' is still open for further improvements.
 

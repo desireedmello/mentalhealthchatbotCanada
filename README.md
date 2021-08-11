@@ -25,37 +25,44 @@ Mental health issues are often not discussed due to the stigma behind them and t
 - [Project Status](https://github.com/desireedmello/mentalhealthchatbotCanada/blob/main/README.md#project-status)
 
 ---
+
 ## Repository Details
 
 'Mental Health Awareness Canada' is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
 
 For Jupter Notebook consider the following files
 
-1. trainingmodel.ipynb      
-2. mentalhealthbot.ipynb
-3. mentalhealthCanada.json                
-4. vocabulary.pkl   
-5. categories.pkl             
-6. mentalhealthbot_model.h5                   
+```
+- trainingmodel.ipynb      
+- mentalhealthbot.ipynb
+- mentalhealthCanada.json                
+- vocabulary.pkl   
+- categories.pkl             
+- mentalhealthbot_model.h5
+```
 
 For Pycharm IDE consider the following files
 
-1. trainingmodel.py
-2. mentalhealthbot.py
-3. mentalhealthCanada.json
-4. vocabulary.pkl
-5. categories.pkl
-6. mentalhealthbot_model.h5
+```
+- trainingmodel.py
+- mentalhealthbot.py
+- mentalhealthCanada.json
+- vocabulary.pkl
+- categories.pkl
+- mentalhealthbot_model.h5
+```
 
 ---
 
 ## Breakdown of the Repository Files:
 
+```
 - trainingmodel.ipynb / trainingmodel.py - Consists of the code required for training the model.
 - mentalhealthbot.ipynb / mentalhealthbot.py - Consists of the code required for designing and running the model's GUI.
 - mentalhealthCanada.json - Dataset consisting of mental health data and resources needed for training the model.
 - vocabulary.pkl and categories.pkl - Stores the list of vocabulary and categories for the model.
 - mentalhealthbot_model.h5 - The 'Mental Health Awareness Canada' model created by trainingmodel and used in mentalhealthbot.
+```
 
 ---
 

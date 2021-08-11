@@ -11,6 +11,11 @@ Mental health issues are often not discussed due to the stigma behind them and t
 
 ---
 
+## Table of contents
+
+- [Repository details](#Repositorydetails)
+
+---
 ## Repository details
 
 'Mental Health Awareness Canada' is available in .ipynb for Jupyter Notebook and .py Pycharm IDE (Works on both Community and Professional Pycharm IDE)
@@ -68,6 +73,8 @@ ImportError: Could not find the DLL(s) 'msvcp140_1.dll'. TensorFlow requires tha
 ```
 
 If so please download the required Visual Studio from [Microsoft Support](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+
+---
 
 ## Mental Health Awareness Canada Demo
 

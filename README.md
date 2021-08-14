@@ -124,7 +124,7 @@ In case you encounter any issues please report them [here](https://github.com/de
 
 1.  Government of Canada, "Mental health and wellness," Canada, 12 April 2021. [Online]. Available: https://www.canada.ca/en/public-health/topics/mental-health-wellness.html. [Accessed 16 July 2021].
 2.  A. Viraj, ”How To Build Your Own Chatbot Using Deep Learning," Medium, 1 November 2020. [Online]. Available: https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281. [Accessed 16 July 2021].
-3.  Amruta99, ”Learn to Develop Simple Chatbots using Python and Deep Learning!," Analytics Vidhya, 22 June 2021 [Online]. Available:https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/. [Accessed 16 July 2021].
+3.  Amruta99, ”Learn to Develop Simple Chatbots using Python and Deep Learning!," Analytics Vidhya, 22 June 2021 [Online]. Available: https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/. [Accessed 16 July 2021].
 4.  F. Chollet, ”The Sequential model," Keras, 12 April 2020.  [Online]. Available: https://keras.io/guides/sequential_model/. [Accessed 16 July 2021].
 5. The Python Standard Library, ”Graphical User Interfaces with Tk," Python. [Online]. Available: https://docs.python.org/3/library/tk.html. [Accessed 16 July 2021].
 

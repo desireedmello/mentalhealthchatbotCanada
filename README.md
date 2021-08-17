@@ -1,4 +1,4 @@
-<h1 align="center"> Mental Health Awareness Canada </h1>
+<h1 align="center"> Mental Health Awareness Canada</h1>
 
 
 <p align="center">

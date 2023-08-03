@@ -102,7 +102,7 @@ If so please download the required Visual Studio from [Microsoft Support](https:
 
 ## Support
 
-If you have any questions please email me at dmellod@lakeheadu.ca
+If you have any questions please email me at desiree2dmello@gmail.com
 
 ---
 
